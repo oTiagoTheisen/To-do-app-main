@@ -32,6 +32,6 @@ O aplicativo consiste em uma **lista de tarefas (To-Do List)** que permite ao us
 
 1. Clone o repositório:
    ```bash
-   git clone https://github.com/kelwnt/To-do-app
+   git clone https://github.com/oTiagoTheisen/To-do-app-main
    
 # To-do-app-main
